@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Catumblr_playground-JXHTTP.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Catumblr_playground-Realm.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Catumblr_playground-TMTumblrSDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Catumblr_playground.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>22824A349A694E18B53F5799</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BDD6E675F7DBFD15AEE1D25B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4DB2CEA0DF54C2B33E3EB3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA169003D015B0F631C0701E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

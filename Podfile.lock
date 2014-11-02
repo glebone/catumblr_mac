@@ -1,0 +1,28 @@
+PODS:
+  - JXHTTP (1.0.3)
+  - Realm (0.87.1):
+    - Realm/Headers
+  - Realm/Headers (0.87.1)
+  - TMTumblrSDK (1.1.1):
+    - TMTumblrSDK/Activity
+    - TMTumblrSDK/APIClient
+    - TMTumblrSDK/AppClient
+    - TMTumblrSDK/Core
+  - TMTumblrSDK/APIClient (1.1.1):
+    - JXHTTP (~> 1.0)
+    - TMTumblrSDK/APIClient/Authentication
+  - TMTumblrSDK/APIClient/Authentication (1.1.1):
+    - JXHTTP (~> 1.0)
+    - TMTumblrSDK/Core
+  - TMTumblrSDK/Core (1.1.1)
+
+DEPENDENCIES:
+  - Realm
+  - TMTumblrSDK
+
+SPEC CHECKSUMS:
+  JXHTTP: b84f7a2157f7ce4554f8f0f0eef3704d5c1cbdac
+  Realm: d2a10a60bbbd66c64ae8d839a378b88c68cf79bb
+  TMTumblrSDK: ba29ee42aa153b7967944e003075563761c99c54
+
+COCOAPODS: 0.34.2
